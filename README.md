@@ -45,7 +45,7 @@ The approach remains open, transparent, and collaborative. It is addressed to al
 
 
 
-# Architecture Théorique et Visionnaire pour l'Évolution des Algorithmes de Reconstruction Temporelle sur Cartes Graphiques d'Entrée de Gamme
+# Architecture Théorique et Visionnaire pour l'Évolution des Algorithmes de Reconstruction Temporelle sur Cartes Graphiques d'Entrée de Gamme -- 🇫🇷 version
 
 **Introduction et Contexte de la Proposition**
 
